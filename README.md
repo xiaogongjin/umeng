@@ -1,3 +1,5 @@
+> forked from marstea/umeng 添加小米通道参数
+
 # 基于umeng官方php sdk v1.4,支持Laravel5以及Lumen5
 
 ## 安装
