@@ -1,12 +1,12 @@
 {
-    "name": "umengpusher/umeng",
+    "name": "xiaogongjin/umeng",
     "description": "umeng for laravel",
     "keywords": [
         "laravel",
         "lumen",
         "umeng"
     ],
-    "homepage": "https://github.com/marstea/umeng",
+    "homepage": "https://github.com/xiaogongjin/umeng",
     "license": "MIT",
     "authors": [
         {
